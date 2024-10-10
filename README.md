@@ -4,6 +4,9 @@
 
 This project analyzes cryptocurrency data by extracting information from the CoinCap API. It aims to explore relationships between various attributes, including rank, supply, market capitalization, and price. The analysis focuses on restructuring and cleaning the data to ensure accuracy and usability.
 
+![image](https://github.com/user-attachments/assets/aca40663-9f5d-4bf7-9828-ad2610770147)
+
+
 ## Objectives
 
 - Extract cryptocurrency data from the CoinCap API.
